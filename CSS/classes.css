@@ -1,0 +1,56 @@
+.text-primary {
+    color: #000;
+}
+.text-light {
+    color: #f2f2f2;
+}
+.bg-primary {
+    background-color: linear-gradient(to right, #000, #333);
+}
+.bg-dark {
+    background-color: #000;
+}
+.bg-light {
+    background-color: #fff;
+}
+
+.ttc {
+    text-transform: capitalize;
+}
+.ttu {
+    text-transform: uppercase;
+}
+
+.flex {
+    display: flex;
+}
+.row {
+    flex-direction: row;
+}
+.row .col {
+    width: 50%;
+}
+.column {
+    flex-direction: column;
+}
+.justify-center {
+    justify-content: center;
+}
+.justify-space-around {
+    justify-content: space-around;
+}
+.justify-space-between {
+    justify-content: space-between;
+}
+.align-center {
+    align-items: center;
+}
+.list-none {
+    list-style: none;
+}
+.td {
+    text-decoration: none;
+}
+.gap-20 {
+    gap: 20px;
+}
